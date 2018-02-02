@@ -1,0 +1,12 @@
+D:\Projects\Собеседование\questions\! EXE\SimplyMemoryCache\bin\Debug\SimplyMemoryCache.exe.config
+D:\Projects\Собеседование\questions\! EXE\SimplyMemoryCache\bin\Debug\SimplyMemoryCache.exe
+D:\Projects\Собеседование\questions\! EXE\SimplyMemoryCache\bin\Debug\SimplyMemoryCache.pdb
+D:\Projects\Собеседование\questions\! EXE\SimplyMemoryCache\obj\Debug\SimplyMemoryCache.csprojResolveAssemblyReference.cache
+D:\Projects\Собеседование\questions\! EXE\SimplyMemoryCache\obj\Debug\SimplyMemoryCache.exe
+D:\Projects\Собеседование\questions\! EXE\SimplyMemoryCache\obj\Debug\SimplyMemoryCache.pdb
+D:\Project\Interview\questions\! EXE\SimplyMemoryCache\bin\Debug\SimplyMemoryCache.exe.config
+D:\Project\Interview\questions\! EXE\SimplyMemoryCache\obj\Debug\SimplyMemoryCache.exe
+D:\Project\Interview\questions\! EXE\SimplyMemoryCache\obj\Debug\SimplyMemoryCache.pdb
+D:\Project\Interview\questions\! EXE\SimplyMemoryCache\bin\Debug\SimplyMemoryCache.exe
+D:\Project\Interview\questions\! EXE\SimplyMemoryCache\bin\Debug\SimplyMemoryCache.pdb
+D:\Project\Interview\questions\! EXE\SimplyMemoryCache\obj\Debug\SimplyMemoryCache.csprojResolveAssemblyReference.cache
